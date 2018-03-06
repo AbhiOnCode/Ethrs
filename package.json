@@ -1,0 +1,15 @@
+{
+  "name": "ethrs ",
+  "version": "1.0.0",
+  "description": "ethereum api",
+  "main": "getbalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhi",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^3.0.3",
+    "jsonfile": "^4.0.0"
+  }
+}
