@@ -9,7 +9,8 @@
   "author": "abhi",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^3.0.3",
+    "casper": "^0.1.1",
+    "ethers": "^3.0.4",
     "jsonfile": "^4.0.0"
   }
 }

@@ -15,3 +15,5 @@ for(i = 0; i < len; i++){
 jsonfile.writeFile(file, wallets, function (err) {
 	console.error(err);
 })
+
+module.exports = 
